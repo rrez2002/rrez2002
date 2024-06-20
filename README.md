@@ -3,7 +3,6 @@
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue)](https://github.com/rrez2002)
 [![Visitors](https://komarev.com/ghpvc/?username=rrez2002&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue)](https://github.com/rrez2002)
 [![Last Commit](https://img.shields.io/github/last-commit/rrez2002/rrez2002?logo=markdown&label=LAST+UPDATE&color=blue&style=flat)](https://github.com/rrez2002)
-[![Last Commit](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://github.com/rrez2002)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrez2002&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000)](https://github.com/rrez2002)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrez2002&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI)](https://github.com/rrez2002)
